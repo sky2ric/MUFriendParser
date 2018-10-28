@@ -1,0 +1,6 @@
+module Pods_MoovUpTest {
+  umbrella header "Pods-MoovUpTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
